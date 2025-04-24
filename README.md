@@ -32,7 +32,7 @@ Developed and tested by **Seif Eddine Tamazerti** 🎯
 
 ## 🙌 Credit
 
-Created by [Seif Eddine Tamazerti](https://www.linkedin.com/in/seif-tamazerti)
+Created by [Seif Eddine Tamazerti]([https://www.linkedin.com/in/seif-tamazerti](https://www.linkedin.com/in/seif-tamezerti-857b74b3/))
 
 ---
 
